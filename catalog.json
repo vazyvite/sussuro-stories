@@ -2,18 +2,19 @@
   "catalogVersion": 1,
   "series": [
     {
-      "id": "series_dodo",
-      "title": "Les Petits Dormeurs",
-      "pictureUrl": "https://raw.githubusercontent.com/votre-user/sussurro-stories/main/series/dodo/cover.webp",
-      "introAudioUrl": "https://raw.githubusercontent.com/votre-user/sussurro-stories/main/series/dodo/intro.opus",
+      "id": "pokemon-cleo",
+      "title": "Pokémon - L'aventure de Cléo",
+      "pictureUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/cover.png",
+      "introAudioUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/intro.wav",
       "stories": [
         {
-          "id": "story_loir_lune",
-          "title": "Le Petit Loir et la Lune",
+          "id": "pokemon-cleo-s1-e1",
+          "title": "Le grand départ",
           "version": 1,
-          "packageUrl": "https://github.com/votre-user/sussurro-stories/releases/download/v1.0/story_loir_lune.story",
+          "packageUrl": "https://github.com/vazyvite/sussuro-stories/releases/download/pokemon_cleo_s1_e1.story",
           "sizeBytes": 4850000,
-          "durationSeconds": 720
+          "durationSeconds": 720,
+          "index": 1
         }
       ]
     }
