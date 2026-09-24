@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -10,10 +10,10 @@
         {
           "id": "pokemon-cleo-s1-e1",
           "title": "Le grand départ",
-          "version": 2,
+          "version": 3,
           "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e1.story",
-          "sizeBytes": 8343086,
-          "durationSeconds": 979,
+          "sizeBytes": 8519461,
+          "durationSeconds": 996,
           "index": 1
         }
       ]
