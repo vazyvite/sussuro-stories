@@ -15,6 +15,15 @@
           "sizeBytes": 8519461,
           "durationSeconds": 996,
           "index": 1
+        },
+        {
+          "id": "pokemon-cleo-s1-e2",
+          "title": "Le lendemain matin",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e2.story",
+          "sizeBytes": 9532542,
+          "durationSeconds": 1055,
+          "index": 1
         }
       ]
     }
