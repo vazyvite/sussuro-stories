@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -23,6 +23,15 @@
           "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e2.story",
           "sizeBytes": 9532542,
           "durationSeconds": 1055,
+          "index": 1
+        },
+        {
+          "id": "pokemon-cleo-s1-e3",
+          "title": "Une occasion parfaite",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e3.story",
+          "sizeBytes": 9541992,
+          "durationSeconds": 926,
           "index": 1
         }
       ]
