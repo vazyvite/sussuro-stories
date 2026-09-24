@@ -1,19 +1,19 @@
 {
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "series": [
     {
       "id": "pokemon-cleo",
       "title": "Pokémon - L'aventure de Cléo",
       "pictureUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/cover.png",
-      "introAudioUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/intro.wav",
+      "introAudioUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/intro.opus",
       "stories": [
         {
           "id": "pokemon-cleo-s1-e1",
           "title": "Le grand départ",
-          "version": 1,
+          "version": 2,
           "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e1.story",
-          "sizeBytes": 4850000,
-          "durationSeconds": 720,
+          "sizeBytes": 8343086,
+          "durationSeconds": 979,
           "index": 1
         }
       ]
