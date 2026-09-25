@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 4,
+  "catalogVersion": 5,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -32,6 +32,15 @@
           "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e3.story",
           "sizeBytes": 9541992,
           "durationSeconds": 926,
+          "index": 1
+        },
+        {
+          "id": "pokemon-cleo-s1-e4",
+          "title": "La Panique !",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e4.story",
+          "sizeBytes": 6527236,
+          "durationSeconds": 643,
           "index": 1
         }
       ]
