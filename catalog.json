@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 5,
+  "catalogVersion": 6,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -51,6 +51,15 @@
           "sizeBytes": 6527236,
           "durationSeconds": 1391,
           "index": 5
+        },
+        {
+          "id": "pokemon-cleo-s1-e6",
+          "title": "Le retour de Roucool",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e6.story",
+          "sizeBytes": 9078717,
+          "durationSeconds": 964,
+          "index": 6
         }
       ]
     }
