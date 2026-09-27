@@ -60,6 +60,15 @@
           "sizeBytes": 9078717,
           "durationSeconds": 964,
           "index": 6
+        },
+        {
+          "id": "pokemon-cleo-s1-e7",
+          "title": "Le combat d'Héricendre",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e7.story",
+          "sizeBytes": 8050932,
+          "durationSeconds": 843,
+          "index": 7
         }
       ]
     }
