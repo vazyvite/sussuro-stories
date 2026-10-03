@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 6,
+  "catalogVersion": 7,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -69,6 +69,15 @@
           "sizeBytes": 8050932,
           "durationSeconds": 843,
           "index": 7
+        },
+        {
+          "id": "pokemon-cleo-s1-e8",
+          "title": "Le refuge",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e8.story",
+          "sizeBytes": 9619404,
+          "durationSeconds": 1008,
+          "index": 8
         }
       ]
     }
