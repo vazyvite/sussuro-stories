@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 7,
+  "catalogVersion": 8,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -78,6 +78,15 @@
           "sizeBytes": 9619404,
           "durationSeconds": 1008,
           "index": 8
+        },
+        {
+          "id": "pokemon-cleo-s1-e9",
+          "title": "L'enquête",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e9.story",
+          "sizeBytes": 12277095,
+          "durationSeconds": 922,
+          "index": 9
         }
       ]
     }
