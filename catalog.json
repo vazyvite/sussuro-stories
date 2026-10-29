@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 8,
+  "catalogVersion": 9,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -87,6 +87,15 @@
           "sizeBytes": 12277095,
           "durationSeconds": 922,
           "index": 9
+        },
+        {
+          "id": "pokemon-cleo-s1-e10",
+          "title": "Le mystérieux coupable",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e10.story",
+          "sizeBytes": 9455412,
+          "durationSeconds": 732,
+          "index": 10
         }
       ]
     }
