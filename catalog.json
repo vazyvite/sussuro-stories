@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 9,
+  "catalogVersion": 10,
   "series": [
     {
       "id": "pokemon-cleo",
@@ -96,6 +96,15 @@
           "sizeBytes": 9455412,
           "durationSeconds": 732,
           "index": 10
+        },
+        {
+          "id": "pokemon-cleo-s1-e11",
+          "title": "il faut partir",
+          "version": 1,
+          "packageUrl": "https://raw.githubusercontent.com/vazyvite/sussuro-stories/main/series/pokemon-cleo/stories/pokemon_cleo_s1_e11.story",
+          "sizeBytes": 7543819,
+          "durationSeconds": 495,
+          "index": 11
         }
       ]
     }
